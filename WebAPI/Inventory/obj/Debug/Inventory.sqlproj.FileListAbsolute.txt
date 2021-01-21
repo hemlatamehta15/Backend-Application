@@ -1,9 +1,0 @@
-H:\hemlata\Hemlata7\WebAPI\Inventory\bin\Debug\Inventory.dacpac
-H:\hemlata\Hemlata7\WebAPI\Inventory\bin\Debug\Inventory.dll
-H:\hemlata\Hemlata7\WebAPI\Inventory\bin\Debug\Inventory.pdb
-H:\hemlata\Hemlata7\WebAPI\Inventory\obj\Debug\Model.xml
-H:\hemlata\Hemlata7\WebAPI\Inventory\obj\Debug\refactor.xml
-H:\hemlata\Hemlata7\WebAPI\Inventory\obj\Debug\postdeploy.sql
-H:\hemlata\Hemlata7\WebAPI\Inventory\obj\Debug\predeploy.sql
-H:\hemlata\Hemlata7\WebAPI\Inventory\obj\Debug\Inventory.dll
-H:\hemlata\Hemlata7\WebAPI\Inventory\obj\Debug\Inventory.pdb
